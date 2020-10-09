@@ -1,0 +1,8 @@
+.title{
+    color: red;
+    transition: 0.5s;
+}
+.title:hover{
+    color: blue;
+    transition: 0.5s;
+}
